@@ -1,2 +1,3 @@
 # Hello_World
-First training
+First training -
+This is Gus Paras newbie
